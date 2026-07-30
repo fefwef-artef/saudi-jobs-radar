@@ -1,17 +1,13 @@
 {
-  "lastUpdated": "2026-07-30T03:24:50.827Z",
+  "lastUpdated": "2026-07-30T06:17:23.778Z",
   "totals": {
-    "total": 8,
-    "new24h": 0,
+    "total": 1,
+    "new24h": 1,
     "byPublisher": {
-      "Indeed": 2,
-      "GulfTalent": 1,
-      "LinkedIn": 2,
-      "Bayt": 2,
-      "Glassdoor": 1
+      "swooped.co": 1
     },
     "bySource": {
-      "Sample": 8
+      "Jooble": 1
     }
   },
   "queries": [
@@ -28,13 +24,13 @@
   ],
   "sources": {
     "jsearch": {
-      "lastRun": "2026-07-29T21:59:41.493Z",
+      "lastRun": "2026-07-30T06:17:23.778Z",
       "lastCount": 0,
       "ok": true
     },
     "jooble": {
-      "lastRun": "2026-07-30T03:18:28.454Z",
-      "lastCount": 41,
+      "lastRun": "2026-07-30T06:17:23.778Z",
+      "lastCount": 37,
       "ok": true
     }
   }
