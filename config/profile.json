@@ -1,72 +1,71 @@
 {
-  "label": "Cybersecurity — Saudi Arabia",
-  "country": "sa",
-  "locations": ["Saudi Arabia", "Riyadh", "Jeddah", "Dammam", "Khobar", "Mecca", "Medina", "NEOM", "Remote"],
-
   "queries": [
-    "cyber security",
-    "information security",
-    "security analyst",
-    "SOC analyst",
-    "penetration tester",
-    "security engineer",
-    "GRC ISO 27001",
-    "information security risk compliance"
+    "cybersecurity internship riyadh",
+    "cloud internship riyadh",
+    "devops internship riyadh",
+    "ai internship riyadh",
+    "cybersecurity coop riyadh",
+    "cloud coop riyadh",
+    "devops coop riyadh",
+    "ai coop riyadh",
+    "تدريب تعاوني امن سيبراني الرياض",
+    "تدريب تعاوني ذكاء اصطناعي الرياض"
   ],
-
+  "locations": [
+    "Riyadh",
+    "الرياض"
+  ],
   "keywords": {
     "core": [
-      "cyber security", "cybersecurity", "information security", "infosec",
-      "security analyst", "soc analyst", "soc", "security operations",
-      "security engineer", "security architect", "security consultant",
-      "penetration test", "penetration tester", "pentest", "ethical hacking",
-      "red team", "blue team", "purple team", "vapt",
-      "incident response", "threat", "threat intelligence", "threat hunting",
-      "vulnerability", "vulnerability management", "siem", "soar",
-      "grc", "governance risk", "iso 27001", "iso27001", "iso 27002",
-      "risk management", "compliance", "audit", "information security officer",
-      "ciso", "iam", "identity and access", "pam",
-      "network security", "application security", "appsec", "devsecops",
-      "cloud security", "security architecture", "forensics", "malware analysis",
-      "data protection", "privacy", "ot security", "ics security", "zero trust"
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "trainee",
+      "training",
+      "mentorship",
+      "fresh graduate",
+      "تدريب",
+      "تعاوني",
+      "خريج"
     ],
     "nice": [
-      "nist", "mitre", "att&ck", "splunk", "qradar", "sentinel", "crowdstrike",
-      "firewall", "ids", "ips", "edr", "xdr", "dlp", "owasp", "kali",
-      "ceh", "cissp", "cism", "oscp", "comptia", "security+", "iso 27001 lead",
-      "saudi", "ksa", "riyadh", "jeddah", "dammam", "neom",
-      "aramco", "stc", "sabic", "nca", "sama", "ecc", "saudi central bank",
-      "essential cybersecurity controls"
+      "cybersecurity",
+      "cyber security",
+      "cloud",
+      "devops",
+      "ai",
+      "artificial intelligence",
+      "machine learning",
+      "aws",
+      "azure",
+      "terraform",
+      "soc",
+      "penetration testing"
     ]
   },
-
   "exclude": [
-    "sales representative", "telesales", "cashier", "cleaner", "driver",
-    "nurse", "physician", "receptionist", "barista", "waiter",
-    "graphic designer", "civil engineer", "mechanical engineer", "hvac"
+    "senior",
+    "lead",
+    "manager",
+    "director",
+    "head of",
+    "principal",
+    "5+ years",
+    "10+ years",
+    "executive"
   ],
-
   "minMatchScore": 8,
-  "retentionDays": 45,
-  "maxJobs": 1500,
-
   "sources": {
     "jsearch": {
       "enabled": true,
-      "minIntervalHours": 6,
-      "datePosted": "week",
-      "query": "(\"cyber security\" OR \"information security\" OR \"SOC analyst\" OR \"penetration tester\" OR \"GRC\") jobs in Saudi Arabia"
+      "minIntervalHours": 6
     },
     "jooble": {
       "enabled": true,
-      "minIntervalHours": 1,
-      "maxQueries": 6
-    },
-    "careerjet": {
-      "enabled": false,
-      "minIntervalHours": 6,
-      "maxQueries": 4,
-      "localeCode": "en_SA"
+      "minIntervalHours": 1
     }
-  }
+  },
+  "retentionDays": 45,
+  "maxJobs": 200
 }
