@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-31T05:23:26.650Z",
+  "lastUpdated": "2026-07-31T08:31:07.259Z",
   "totals": {
     "total": 1,
-    "new24h": 1,
+    "new24h": 0,
     "byPublisher": {
       "swooped.co": 1
     },
@@ -29,7 +29,7 @@
       "ok": true
     },
     "jooble": {
-      "lastRun": "2026-07-31T05:23:26.650Z",
+      "lastRun": "2026-07-31T08:31:07.259Z",
       "lastCount": 37,
       "ok": true
     }
