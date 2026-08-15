@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T21:10:39.600Z",
+  "lastUpdated": "2026-08-15T22:09:01.496Z",
   "totals": {
     "total": 1,
     "new24h": 0,
@@ -24,12 +24,12 @@
   ],
   "sources": {
     "jsearch": {
-      "lastRun": "2026-08-15T16:11:08.677Z",
+      "lastRun": "2026-08-15T22:09:01.496Z",
       "lastCount": 0,
       "ok": true
     },
     "jooble": {
-      "lastRun": "2026-08-15T21:10:39.600Z",
+      "lastRun": "2026-08-15T22:09:01.496Z",
       "lastCount": 24,
       "ok": true
     }
