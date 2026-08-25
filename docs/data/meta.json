@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T20:15:47.844Z",
+  "lastUpdated": "2026-08-25T21:16:29.087Z",
   "totals": {
     "total": 1,
     "new24h": 0,
@@ -29,8 +29,8 @@
       "ok": true
     },
     "jooble": {
-      "lastRun": "2026-08-25T19:21:57.047Z",
-      "lastCount": 32,
+      "lastRun": "2026-08-25T21:16:29.087Z",
+      "lastCount": 30,
       "ok": true
     }
   }
