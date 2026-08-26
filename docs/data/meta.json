@@ -1,13 +1,14 @@
 {
-  "lastUpdated": "2026-08-26T16:08:23.456Z",
+  "lastUpdated": "2026-08-26T18:46:06.082Z",
   "totals": {
-    "total": 1,
-    "new24h": 0,
+    "total": 2,
+    "new24h": 1,
     "byPublisher": {
+      "hireskys.com": 1,
       "swooped.co": 1
     },
     "bySource": {
-      "Jooble": 1
+      "Jooble": 2
     }
   },
   "queries": [
@@ -29,8 +30,8 @@
       "ok": true
     },
     "jooble": {
-      "lastRun": "2026-08-26T16:08:23.456Z",
-      "lastCount": 33,
+      "lastRun": "2026-08-26T18:46:06.082Z",
+      "lastCount": 37,
       "ok": true
     }
   }
