@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-01T23:38:39.273Z",
+  "lastUpdated": "2026-09-02T01:47:08.935Z",
   "totals": {
     "total": 3,
-    "new24h": 1,
+    "new24h": 0,
     "byPublisher": {
       "hireskys.com": 2,
       "swooped.co": 1
@@ -25,12 +25,12 @@
   ],
   "sources": {
     "jsearch": {
-      "lastRun": "2026-09-01T18:57:06.116Z",
+      "lastRun": "2026-09-02T01:47:08.935Z",
       "lastCount": 0,
       "ok": true
     },
     "jooble": {
-      "lastRun": "2026-09-01T23:38:39.273Z",
+      "lastRun": "2026-09-02T01:47:08.935Z",
       "lastCount": 49,
       "ok": true
     }
