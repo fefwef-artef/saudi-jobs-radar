@@ -1,15 +1,14 @@
 {
-  "lastUpdated": "2026-09-27T05:56:56.888Z",
+  "lastUpdated": "2026-09-27T11:10:29.564Z",
   "totals": {
-    "total": 4,
+    "total": 3,
     "new24h": 0,
     "byPublisher": {
       "remoshift.com": 1,
-      "hireskys.com": 2,
-      "swooped.co": 1
+      "hireskys.com": 2
     },
     "bySource": {
-      "Jooble": 4
+      "Jooble": 3
     }
   },
   "queries": [
@@ -31,7 +30,7 @@
       "ok": true
     },
     "jooble": {
-      "lastRun": "2026-09-27T05:56:56.888Z",
+      "lastRun": "2026-09-27T11:10:29.564Z",
       "lastCount": 2,
       "ok": true
     }
