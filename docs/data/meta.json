@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-08T00:31:31.337Z",
+  "lastUpdated": "2026-10-08T06:46:00.043Z",
   "totals": {
     "total": 5,
-    "new24h": 2,
+    "new24h": 0,
     "byPublisher": {
       "decentrajobs.com": 2,
       "remoshift.com": 1,
@@ -26,12 +26,12 @@
   ],
   "sources": {
     "jsearch": {
-      "lastRun": "2026-10-08T00:31:31.337Z",
+      "lastRun": "2026-10-08T06:46:00.043Z",
       "lastCount": 0,
       "ok": true
     },
     "jooble": {
-      "lastRun": "2026-10-08T00:31:31.337Z",
+      "lastRun": "2026-10-08T06:46:00.043Z",
       "lastCount": 15,
       "ok": true
     }
