@@ -1,15 +1,14 @@
 {
-  "lastUpdated": "2026-10-29T03:17:15.858Z",
+  "lastUpdated": "2026-10-29T10:31:23.851Z",
   "totals": {
-    "total": 5,
+    "total": 4,
     "new24h": 0,
     "byPublisher": {
       "decentrajobs.com": 2,
-      "remoshift.com": 1,
       "hireskys.com": 2
     },
     "bySource": {
-      "Jooble": 5
+      "Jooble": 4
     }
   },
   "queries": [
@@ -26,12 +25,12 @@
   ],
   "sources": {
     "jsearch": {
-      "lastRun": "2026-10-28T23:50:43.054Z",
+      "lastRun": "2026-10-29T10:31:23.851Z",
       "lastCount": 0,
       "ok": true
     },
     "jooble": {
-      "lastRun": "2026-10-29T03:17:15.858Z",
+      "lastRun": "2026-10-29T10:31:23.851Z",
       "lastCount": 19,
       "ok": true
     }
