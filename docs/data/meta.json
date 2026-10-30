@@ -1,14 +1,13 @@
 {
-  "lastUpdated": "2026-10-30T02:14:25.044Z",
+  "lastUpdated": "2026-10-30T09:13:29.120Z",
   "totals": {
-    "total": 4,
+    "total": 2,
     "new24h": 0,
     "byPublisher": {
-      "decentrajobs.com": 2,
-      "hireskys.com": 2
+      "decentrajobs.com": 2
     },
     "bySource": {
-      "Jooble": 4
+      "Jooble": 2
     }
   },
   "queries": [
@@ -25,12 +24,12 @@
   ],
   "sources": {
     "jsearch": {
-      "lastRun": "2026-10-30T02:14:25.044Z",
+      "lastRun": "2026-10-30T09:13:29.120Z",
       "lastCount": 0,
       "ok": true
     },
     "jooble": {
-      "lastRun": "2026-10-30T02:14:25.044Z",
+      "lastRun": "2026-10-30T09:13:29.120Z",
       "lastCount": 19,
       "ok": true
     }
